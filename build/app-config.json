@@ -1,0 +1,13 @@
+{
+  "production": false,
+  "API_PATH_QUERIES": "https://impconfigurations-qry-dev2.care26.com",
+  "API_PATH_COMMANDS": "https://impconfigurations-cmd-dev2.care26.com",
+  "API_PATH_IDP": "https://auth-dev2.care26.com",
+  "AHP_API_PATH_QUERIES": "https://implementations-qry-dev2.care26.com",
+  "AHP_API_PATH_COMMANDS": "https://implementations-cmd-dev2.care26.com",
+  "SCHOOL_ADMIN": false,
+  "NOTIFICATIONS_HUB": {
+    "domain": "https://localhost:61889",
+    "path": "/NotificationsHub"
+  }
+}
